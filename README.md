@@ -9,10 +9,6 @@
     </p>
 </h1>
 
-<p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=S1LV3R-C4P" alt="S1LV3R-C4P"/></a>
-</p>
-
 `user@github:/# cat profession.txt`
 
 Certified Ethical Hacker v12 | Certified Penetration Tester | Certified AppSec Practitioner | Red Team | Security Researcher | Computer Science Engineer
