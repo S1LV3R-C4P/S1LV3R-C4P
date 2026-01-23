@@ -40,13 +40,6 @@ A passionate cyber security and penetration testing enthusisast, researching and
 
 &nbsp;
 
-`user@github:/profile-status# display status`
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=S1LV3R-C4P&count_private=true&theme=github-dark-dimmed&border_radius=10" alt="S1LV3R-C4P" />
-</p>
-
-&nbsp;
-
 `user@github:/projects# ls -a`
 | Skills                                                                              | Associated Projects        | Description                |
 |-------------------------------------------------------------------------------------|----------------------------|----------------------------|
