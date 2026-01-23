@@ -1,5 +1,5 @@
 <!--
-**fayasmh07/fayasmh07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**S1LV3R-C4P/S1LV3R-C4P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 <h1>
@@ -42,7 +42,7 @@ A passionate cyber security and penetration testing enthusisast, researching and
 
 `user@github:/profile-status# display status`
 <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fayasmh07&count_private=true&theme=github-dark-dimmed&border_radius=10" alt="fayasmh07" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=S1LV3R-C4P&count_private=true&theme=github-dark-dimmed&border_radius=10" alt="S1LV3R-C4P" />
 </p>
 
 &nbsp;
@@ -50,16 +50,12 @@ A passionate cyber security and penetration testing enthusisast, researching and
 `user@github:/projects# ls -a`
 | Skills                                                                              | Associated Projects        | Description                |
 |-------------------------------------------------------------------------------------|----------------------------|----------------------------|
-| Vulnerability Assessment, OpenVAS, Web Application Security                         | <p align="center"> <a href="https://github.com/fayasmh07/Vulnerability-Assessments" > Vulnerability Assessments </a> </p> | The project involves using OpenVAS to scan and identify security vulnerabilities in a website. |
 | Networking, Server Configuration, Network Protocols                                 | <p align="center"> <a href="https://github.com/fayasmh07/Project-SIGMA" > Project SIGMA </a> </p> | Developing an Internet Accessible Home Server with various services such as Remote Desktop, Web Service, File Storage Service etc... |
 | Bash Scripting, Linux                                                               | <p align="center"> <a href="https://github.com/fayasmh07/Automatic-Update" > Automatic Update </a> </p> | The Script helps to run 'update','upgrade' & 'autoremove' linux processes by entering "update" commad. |
-| Wireshark, Nmap, Maltego, Kali Linux                                                | <p align="center"> <a href="https://github.com/fayasmh07/Techno-Hacks-Inetrnship" > TechnoHacks Internship </a> </p> | Contains Videos and Documentation on tools such as Wireshark, Nmap & Maltego recorded as a part of TechnoHacks Internship. |
 | IDS Setup, Cyber Security, Endpoint Vulnerability Detection, Network Monitoring     | <p align="center"> <a href="https://github.com/fayasmh07/Wazuh-Server" > Wazuh Server </a> </p> | Setting up WAZUH - Intrusion Detection System for Home Lab, which invloves linux and windows host setup. |
-| Nessus, Vylnerability Analysis                                                      | <p align="center"> <a href="https://github.com/fayasmh07/Vulnerability-Assessments" > Vulnerability Assessments </a> </p> | Malware Analysis in Unix based local machine using Nessus Vulnerability Scanner (Nessus Essentials). |
 | TCP Dump, Network Packet Capturing                                                  | <p align="center"> <a href="https://github.com/fayasmh07/Analysis-Projects/blob/main/TCP-Dump" > TCP Dump </a> </p> | Basic Network Packet Capturing & Analysis using TCP Dump as a part of Googlr Cyber Security Professional Certificate. |
 | Suricata, Network Traffic Monitoring                                                | <p align="center"> <a href="https://github.com/fayasmh07/Analysis-Projects/blob/main/Suricata" > Suricata </a> </p> | Basic Network Packet Analysis and exploring custom rules using Suricata as a part of Googlr Cyber Security Professional Certificate. |
 | Prompt Engineering, Python                                                          | <p align="center"> <a href="https://github.com/fayasmh07/File-Integrity-Checker-Tool" > File Integrity Checker Tool </a> </p> | This tool monitors file integrity on Linux, alerting users to unauthorized changes with repeat notifications until files are restored, and logs all monitoring actions. |
-| Bash Scripting, Linux, Bug Bounty                                                   | <p align="center"> <a href="https://github.com/fayasmh07/way-finder" > Way Finder </a> </p> | Way Finder is a Bash-based utility designed for bug bounty hunters to automate URL collection and filter them for vulnerabilities like XSS, SQLi, LFI, and more. It streamlines reconnaissance by providing customizable keyword searches, dynamic filtering, and organized output files. |
 | OSINT                                                                               | <p align="center"> <a href="https://github.com/fayasmh07/Projects/tree/main/OSINT/SBT-SKYFALL" > SKYFALL-SBT </a> </p> | Did OSINT operations which uses Google searching, Social Media Analysis etc.|
 
 
