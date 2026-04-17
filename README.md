@@ -11,18 +11,11 @@
 
 `user@github:/# cat profession.txt`
 
-Certified Ethical Hacker v12 | Certified Penetration Tester | Certified AppSec Practitioner | Red Team | Security Researcher | Computer Science Engineer
+Offensive Security Researcher | CompTIA Pentest+ | Certified Ethical Hacker v12 | Certified Network Security Practitioner | Web Red Team Analyst | Certified Penetration Tester | Certified AppSec Practitioner | Red Teaming | Computer Science Engineer
 
 `user@github:/# whoami`
 
 A passionate cyber security and penetration testing enthusisast, researching and adapting various hacking skills. Also pursued my BTech Degree in Computer Science Engineering.
-
-`user@github:/home/skills# ls -la`
-- RedTeam Operations
-- Networking & Security
-- Database Management
-- Scripting
-- VAPT
 
 `user@github:/languages-&-environments# ls`
 
