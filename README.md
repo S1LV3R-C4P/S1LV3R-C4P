@@ -9,8 +9,6 @@
     </p>
 </h1>
 
-https://www.fayasmh.online
-
 `user@github:/# cat profession.txt`
 
 Offensive Security Researcher | Computer Science Engineer
